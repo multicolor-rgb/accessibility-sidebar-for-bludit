@@ -1,5 +1,5 @@
 <?php
-    class pluginHello extends Plugin {
+    class accessibilitySidebar extends Plugin {
 
         public function init()
         {
