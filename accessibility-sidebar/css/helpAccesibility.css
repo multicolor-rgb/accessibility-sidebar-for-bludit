@@ -17,7 +17,6 @@
 
  
     .body-hacontrast {
-        background: #000;
         filter: invert(100%) !important;
     }
 
